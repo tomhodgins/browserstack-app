@@ -1,0 +1,14 @@
+{
+  "name": "browserstack",
+  "productName": "Browserstack",
+  "version": "0.0.0",
+  "devDependencies": {
+    "electron": "^8.0.3"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build-mac": "npx electron-builder -m",
+    "build-linux": "npx electron-builder -l",
+    "build-windows": "npx electron-builder -w"
+  }
+}
