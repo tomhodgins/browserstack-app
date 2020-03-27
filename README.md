@@ -2,6 +2,8 @@
 
 A simple electron app for browserstack.com
 
+![](sscreenshot.png)
+
 ## CLI Usage
 
 Before you run you will need to install electron with
